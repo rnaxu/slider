@@ -7,7 +7,8 @@
   &__contents {
     width: 100%;
     height: 200px;
-    overflow: scroll;
+    overflow-x: auto;
+    overflow-y: hidden;
     -webkit-overflow-scrolling: touch;  /* 慣性スクロール */
   }
   &__list {
