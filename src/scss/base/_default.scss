@@ -1,7 +1,10 @@
 @charset "utf-8";
 
 body {
-    position: relative;
-    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", Helvetica, Arial, sans-serif;
-    word-break: break-all;
+  position: relative;
+  font-family: Meiryo, "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", Osaka, Arial, Sans-serif;
+  word-break: break-all;
+}
+img {
+  vertical-align: bottom;
 }
